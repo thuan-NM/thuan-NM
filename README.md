@@ -9,7 +9,7 @@
 
 - 📫 Reach me at **thuannm.ws@gmail.com**
 
-- <link type="image/png" sizes="16x16" rel="icon" href=".../icons8-portfolio-external-flatart-icons-lineal-color-flatarticons-16.png"> **https://ngmthuan.id.vn/**
+- https://ngmthuan.id.vn
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
