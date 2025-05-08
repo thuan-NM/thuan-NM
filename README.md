@@ -9,7 +9,7 @@
 
 - 📫 Reach me at **thuannm.ws@gmail.com**
 
-- https://ngmthuan.id.vn
+- **https://ngmthuan.id.vn**
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
