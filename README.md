@@ -9,6 +9,8 @@
 
 - 📫 Reach me at **thuannm.ws@gmail.com**
 
+- <link type="image/png" sizes="16x16" rel="icon" href=".../icons8-portfolio-external-flatart-icons-lineal-color-flatarticons-16.png"> **https://ngmthuan.id.vn/**
+
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://www.facebook.com/sansnmt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nguyenminhthuan" height="30" width="40" /></a>
